@@ -2,10 +2,10 @@ import React from 'react'
 
 
 
-function CartWidjet() {
+export default function CartWidjet() {
   return (
     <div>
-      <img src='' ></img>
+      <img src='./' ></img>
     </div>
   )
 }
